@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">Dktvmail logo</title><desc id="desc">Generated geometric brand mark.</desc>
+<rect width="512" height="512" rx="96" fill="#111111"/>
+<path d="M104 154h304v204H104z" fill="none" stroke="#d8d8d8" stroke-width="18"/>
+<path d="M104 154l80-58h224v58M408 358l-80 58H104v-58" fill="none" stroke="#ffffff" stroke-width="12"/>
+<circle cx="104" cy="154" r="16" fill="#ffffff"/><circle cx="408" cy="358" r="16" fill="#d8d8d8"/>
+<text x="256" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="800" letter-spacing="8" fill="#faf9f6">D</text>
+</svg>

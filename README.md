@@ -1,2 +1,7 @@
-# dktvmail.github.io
-Official website for Dktvmail — A modern brand built around clear ideas, useful experiences, and long-term growth.
+# Dktvmail Website
+
+Official website repository for Dktvmail.
+
+https://dktvmail.github.io/
+
+© 2026 Dktvmail. All rights reserved.

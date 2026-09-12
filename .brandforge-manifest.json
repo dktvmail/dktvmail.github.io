@@ -1,0 +1,28 @@
+{
+  "generator": "BrandForge Bot",
+  "version": 3,
+  "generated_at": "2026-09-12T02:19:25.731Z",
+  "paths": [
+    ".nojekyll",
+    "404.html",
+    "README.md",
+    "about.html",
+    "assets/app.js",
+    "assets/logo.svg",
+    "assets/social-preview.svg",
+    "assets/styles.css",
+    "contact.html",
+    "experience.html",
+    "index.html",
+    "operations.html",
+    "partnerships.html",
+    "privacy.html",
+    "resources.html",
+    "robots.txt",
+    "services.html",
+    "site.webmanifest",
+    "sitemap.xml",
+    "solutions.html",
+    "terms.html"
+  ]
+}
