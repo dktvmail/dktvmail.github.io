@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
-<rect width="1200" height="630" fill="#111111"/><circle cx="1040" cy="120" r="260" fill="#d8d8d8" opacity=".16"/><circle cx="110" cy="590" r="300" fill="#ffffff" opacity=".12"/>
-<text x="86" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="92" fill="#faf9f6">Dktvmail</text>
-<text x="90" y="350" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#d8d8d8">Built for What Comes Next.</text>
-<text x="90" y="530" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="5" fill="#faf9f6" opacity=".7">CREATED WITH BRANDFORGE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Dktvmail social preview">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101112"/><stop offset="1" stop-color="#17191b"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/><circle cx="1030" cy="90" r="310" fill="#cfd4d8" opacity=".16"/><circle cx="1040" cy="560" r="220" fill="#ffffff" opacity=".12"/>
+<rect x="80" y="78" width="58" height="58" rx="14" fill="#cfd4d8"/><text x="109" y="118" text-anchor="middle" font-family="Arial" font-size="22" font-weight="900" fill="#101112">D</text>
+<text x="80" y="300" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="88" fill="#fbfaf7">Dktvmail</text>
+<text x="84" y="378" font-family="Arial, Helvetica, sans-serif" font-size="35" fill="#cfd4d8">Built for What Comes Next.</text>
+<text x="84" y="530" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4" fill="#777b80">MODERN BRAND</text>
 </svg>
